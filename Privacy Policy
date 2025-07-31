@@ -1,0 +1,35 @@
+Privacy Policy
+Effective date : June 12, 2025
+
+1. Introduction
+Welcome to Sketchy Codex. We are committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our mobile application. While Sketchy Codex primarily operates offline, it may require limited internet access for app updates only.
+
+
+2. Information Collection
+Sketchy Codex is designed with user privacy in mind. We do not collect, store, or transmit any personal data during normal usage of the app.
+
+Offline Operation : The app functions offline and does not require user accounts or any form of identity tracking.
+
+Update Process : Internet access is required only for checking and  app updates. No personal data is collected, transmitted, or stored during this process.
+
+No Server Interaction : The app does not connect to any external servers or databases for collecting or syncing user downloading data.
+
+
+3. Permissions and Data Usage
+Sketchy Codex requests minimal permissions, strictly for enabling file-saving features — not for accessing any personal user data or files.
+
+Storage Permissions (Android 9 and below) : Required only to save files, such as custom components, local libraries, and other development resources, to your device. The app does not access or read any unrelated user data or files.
+
+SAF (Storage Access Framework) Permissions (Android 10+) : Used exclusively to grant access to a specific folder where the app can write files. Sketchy Codex does not browse or access files outside the selected location.
+
+Offline Use : All app-generated content remains stored locally. No data leaves your device, and no background transmission or tracking occurs.
+
+Internet Access : Used only to check for and download app updates. We do not collect or transmit any personal or usage data over the internet.
+
+
+4. Data Security
+Your data remains securely stored locally on your device. Since Sketchy Codex does not interact with any servers, there is no remote storage or transmission of your information. All file operations are performed using system-level permissions on your device only.
+
+
+5. Changes to This Policy
+We may update this Privacy Policy from time to time to reflect changes in app features or platform requirements. Any updates will be made available within the app’s documentation or changelog. Continued use of the app indicates acceptance of any revised terms.
