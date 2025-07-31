@@ -1,8 +1,6 @@
 # Sketchy-Codex
-# About Sketchy Codex
 
-
-Sketchy Codex was created with a clear and meaningful goal: to make learning Java and accessing high-quality development resources easier, faster, and more effective for users of Sketchware Pro.
+          Sketchy Codex was created with a clear and meaningful goal: to make learning Java and accessing high-quality development resources easier, faster, and more effective for users of Sketchware Pro.
 
 
 As many developers in the Sketchware Pro community struggled to find clean, reliable, and well-structured Java code, compatible libraries, or reusable components, Sketchy Codex emerged as a solution—a centralized, offline-ready toolkit built to eliminate the need for scattered web searches and trial-and-error.
