@@ -1,5 +1,5 @@
 # Sketchy-Codex
-About Sketchy Codex
+# About Sketchy Codex
 
 
 Sketchy Codex was created with a clear and meaningful goal: to make learning Java and accessing high-quality development resources easier, faster, and more effective for users of Sketchware Pro.
@@ -9,7 +9,7 @@ As many developers in the Sketchware Pro community struggled to find clean, reli
 
 
 
-A Companion for Every Sketchware Pro Developer
+# A Companion for Every Sketchware Pro Developer
 
 
 Whether you're just starting to learn Java or you're already building advanced applications in Sketchware Pro, Sketchy Codex is designed to meet you where you are. It serves as a curated learning companion, a code reference library, and a utility box packed with time-saving tools tailored to your daily development tasks.
@@ -25,7 +25,7 @@ For Advanced Developers : It provides a structured way to organize and reuse com
 
 
 
-Why Offline Matters
+# Why Offline Matters
 
 
 Sketchy Codex is intentionally built to work entirely offline after installation. Once downloaded, users can browse code examples, access libraries, and use available tools without needing an internet connection. This ensures faster access, more privacy, and uninterrupted development—especially helpful in environments where connectivity is limited or unreliable.
@@ -35,7 +35,7 @@ Internet access is used only to check for app updates. Your personal data is nev
 
 
 
-Community-Driven Development
+# Community-Driven Development
 
 
 Sketchy Codex grows and evolves with its community. Every feature, bug fix, and improvement is shaped by real user feedback. We listen to your requests and actively respond by refining performance, enhancing usability, and adding new resources that match what developers actually need.
@@ -45,7 +45,7 @@ We believe that tools should empower creativity—not get in the way of it. That
 
 
 
-Key Features
+# Key Features
 
 
 A library of Java code examples tailored for Sketchware Pro
@@ -61,7 +61,7 @@ A library of Java code examples tailored for Sketchware Pro
  Regular updates based on user input and platform changes
 
 
-Built with You in Mind
+# Built with You in Mind
 
 
 Sketchy Codex isn’t just another code snippet app—it’s a focused effort to create a useful, practical, and thoughtful development companion for Sketchware Pro users. By combining clarity, accessibility, and efficiency, we hope to empower everyone in the community—from hobbyists to professional developers—to build better apps, learn faster, and create without limits.
