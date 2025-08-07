@@ -7,6 +7,7 @@ As many developers in the Sketchware Pro community struggled to find clean, reli
 
 
 
+
 **A Companion for Every Sketchware Pro Developer**
 
 
@@ -20,6 +21,7 @@ For Intermediate Users : It offers practical building blocks to accelerate app c
 
 
 For Advanced Developers : It provides a structured way to organize and reuse components, implement external libraries, and optimize development workflows—all offline.
+
 
 
 
@@ -43,6 +45,7 @@ We believe that tools should empower creativity—not get in the way of it. That
 
 
 
+
 **Key Features**
 
 
@@ -57,6 +60,7 @@ A library of Java code examples tailored for Sketchware Pro
  Offline functionality with fast local access to all resources
 
  Regular updates based on user input and platform changes
+
 
 
 **Built with You in Mind**
