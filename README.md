@@ -48,17 +48,17 @@ For Advanced Developers : It provides a structured way to organize and reuse com
 **Key Features**
 
 
-A library of Java code examples tailored for Sketchware Pro
+▫ A library of Java code examples tailored for Sketchware Pro
 
- Ready-to-use components and custom blocks
+▫ Ready-to-use components and custom blocks
 
- Reference to common libraries and integration tips
+▫ Reference to common libraries and integration tips
 
- Clean, minimal UI optimized for quick browsing and learning
+▫ Clean, minimal UI optimized for quick browsing and learning
 
- Offline functionality with fast local access to all resources
+▫ Offline functionality with fast local access to all resources
 
- Regular updates based on user input and platform changes
+▫ Regular updates based on user input and platform changes
 
 
 
