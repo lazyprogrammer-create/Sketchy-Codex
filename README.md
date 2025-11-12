@@ -1,4 +1,4 @@
-#Sketchy Codex
+# Sketchy Codex
 **Your Sketchware Pro Code Companion**
 
    Sketchy Codex was built with a clear purpose: to accelerate Sketchware Pro development through shared knowledge, reusable components and collaborative learning. It serves as a centralized hub where developers can access, share and organize code resources that empower faster and smarter app creation.
@@ -49,4 +49,4 @@
 
    Sketchy Codex isn't just a code collection—it's a practical toolkit designed to integrate seamlessly into your Sketchware Pro journey. By combining accessible organization with community-driven content, we aim to help developers at all levels build better apps faster.
 
-   Thank you for being part of our growing community. Your contributions and feedback continue to shape Sketchy Codex into a more valuable resource for everyone.
+   _Thank you for being part of our growing community. Your contributions and feedback continue to shape Sketchy Codex into a more valuable resource for everyone._
