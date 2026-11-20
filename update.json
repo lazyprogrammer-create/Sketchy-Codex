@@ -1,7 +1,7 @@
 [
   {
     "releaseDate": "1795148410432",
-    "downloadUrl": "https://github.com/lazyprogrammer-create/Sketchy-Codex/releases/download/v24.612.81/Sketchy.Code.v24.612.81.apk",
+    "downloadUrl": "https://github.com/lazyprogrammer-create/Sketchy-Codex/releases/download/v24.612.81/Sketchy.Codex.v24.612.81.apk",
     "changelog": "Enhanced Resources \u0026 Refined Experience\n\nThis release brings new development resources, improved customization, and a more refined interface. Explore new code palettes and local libraries, enjoy the new Fading Edge setting, and benefit from updated resources and visual enhancements.\n\n⦁ Added:\n ▫ New code palettes and local libraries added to Sketchy Codex for easier access and faster development.\n ▫ New Fading Edge setting to customize the fading effect on scrollable views.\n\n⦁ Updated:\n ▫ Existing code snippets and local libraries updated for better functionality, compatibility, and clarity.\n ▫ Some UI colors adjusted for better visual balance and consistency throughout the app.\n\n⦁ Improved:\n ▫ App UI refined with visual enhancements for a cleaner, smoother, and more consistent user experience.\n\n⦁ Fixed:\n ▫ Old version entries refined — Version 23.611.80 alpha3\u0027s  have been correctly merged.",
     "versionName": "24.612.81",
     "screenshots": "https://github.com/user-attachments/assets/f5ca9e49-e7ef-4364-8642-24813f0d1504"
